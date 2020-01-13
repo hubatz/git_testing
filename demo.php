@@ -1,5 +1,5 @@
 <?php
 
 function demo(){
-  echo 'Der da hat auf meine Gitarre getreten!!!!!!';
+  echo 'ich könnte mich nicht erinnern, dass hier eine Gitarre gelegen hätte.';
 }
