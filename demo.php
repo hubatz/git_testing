@@ -1,5 +1,5 @@
 <?php
 
 function demo(){
-  echo 'Ronny riecht derbe nach bäbä';  
+  echo 'Der da hat auf meine Gitarre getreten!';
 }
