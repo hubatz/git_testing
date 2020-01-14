@@ -1,0 +1,21 @@
+body {
+    background:darkred;
+    margin:50px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-weight:bold;
+    color:black;
+    font-family: 'UnifrakturCook', cursive;
+    font-size:24em;
+    line-height:1;
+    margin-bottom:20px;
+    text-shadow:7px 7px 0 #fff;
+}
+
+p {
+    font-size:2em;
+    width:70%;
+    color:#fff;
+}
